@@ -1,0 +1,8 @@
+/* Enter your custom styles here */
+
+.myCustomText {
+    display: inline-block;
+    font-weight: bold;
+    color  : red;
+    background-color: lightgrey;
+ }

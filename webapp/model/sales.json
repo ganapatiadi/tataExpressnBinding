@@ -1,0 +1,42 @@
+{
+    "customers" :
+    [
+        {
+            "cid"    : 1000,
+            "fname"  : "SAP 1000",
+            "lname"  : "Pvt Ltd",
+            "smat"   : 100000
+        },
+        {
+            "cid"    : 2000,
+            "fname"  : "SAP 2000",
+            "lname"  : "Pvt Ltd",
+            "smat"   : 200000
+        },
+        {
+            "cid"    : 3000,
+            "fname"  : "SAP 3000",
+            "lname"  : "Pvt Ltd",
+            "smat"   : 300000
+        },
+        {
+            "cid"    : 4000,
+            "fname"  : "SAP 4000",
+            "lname"  : "Pvt Ltd",
+            "smat"   : 400000
+        },
+        {
+            "cid"    : 5000,
+            "fname"  : "SAP 5000",
+            "lname"  : "Pvt Ltd",
+            "smat"   : 500000
+        },
+        {
+            "cid"    : 6000,
+            "fname"  : "SAP 6000",
+            "lname"  : "Pvt Ltd",
+            "smat"   : 600000
+        }
+
+    ] 
+}
